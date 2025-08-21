@@ -1,0 +1,1 @@
+console.log('Hello World') // Basicamente um "print" em Python, onde você pode mostrar al
